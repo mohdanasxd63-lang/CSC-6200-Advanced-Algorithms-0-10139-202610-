@@ -1,0 +1,20 @@
+# Test 1
+Input:
+abcdef
+5 9 12 13 16 45
+Expected Output:
+f: 0
+c: 100
+d: 101
+a: 1100
+b: 1101
+e: 111
+
+# Test 2
+Input:
+xyz
+10 20 30
+Possible Output:
+z: 0
+y: 10
+x: 11
