@@ -11,3 +11,9 @@ The algorithm uses bitwise operations, message scheduling, and nonlinear functio
 ### **Compile the program**
 ```bash
 g++ sha256.cpp -o sha256
+
+
+Enter path to Book of Mark text file: Bible Revised Standard Version.txt
+
+SHA-256 Hash of the Book of Mark:
+a6d422d6b712632110abcbc7256f7c9accf3b4bdb82914ba72a9e0961b8e919a
